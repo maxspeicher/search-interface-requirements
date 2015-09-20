@@ -1,4 +1,4 @@
-# Requirements for Current and Future Search Interfaces for German-speaking Users
+Requirements for Current and Future Search Interfaces for German-speaking Users
 =================================================================================
 
 This repository contains the results of an exploratory study I have conducted for my PhD thesis in order to determine a set of requirements for current and future search interfaces for German-speaking users. In particular, you will find:
