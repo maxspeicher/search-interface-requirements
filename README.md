@@ -5,8 +5,9 @@ This repository contains the results of an exploratory study I have conducted fo
 
 * the raw survey data, as collected through a Google Form;
 * the combined and translated results in English, additionally divided into user groups "Desktop", "Mobile" and "Novel";
-* the screenshots of the four search interfaces evaluated in the study, as they were shown to the participants; and
-* the final set of requirements, as determined from the results of the study and verified by 12 experts.
+* the screenshots of the four search interfaces evaluated in the study, as they were shown to the participants;
+* the survey results, findings and inferred initial requirements that were presented to 12 experts for verification; and
+* the final set of requirements, as determined from the results of the study and verified by the 12 experts.
 
 ## License
 
